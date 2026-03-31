@@ -6,6 +6,7 @@ A multi-task NER model built on BERT that simultaneously predicts **Named Entity
 ## Dataset
 
 Dataset link: https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset?resource=download
+
 The dataset (`ner_dataset.csv`) contains **1,048,575 tokens** across **47,959 sentences**, with four columns:
 
 | Column | Description |
