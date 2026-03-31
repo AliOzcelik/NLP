@@ -1,11 +1,11 @@
 # Named Entity Recognition with BERT
 
 A multi-task NER model built on BERT that simultaneously predicts **Named Entity tags** and **Part-of-Speech tags** for each token in a sentence.
-Dataset link: https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset?resource=download
 ---
 
 ## Dataset
 
+Dataset link: https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset?resource=download
 The dataset (`ner_dataset.csv`) contains **1,048,575 tokens** across **47,959 sentences**, with four columns:
 
 | Column | Description |
