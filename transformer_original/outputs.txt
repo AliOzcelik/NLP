@@ -1,0 +1,1120 @@
+-----------------------
+Epoch:  1
+Loss: 6.6052
+Epoch training time: 130.74
+Learning Rate: 2.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un ne suis pas un est un de la est un de la de la
+Test Loss: 4.7051
+Epoch loss: 6.6052
+BLEU: 0.0181
+New best BLEU: 0.0181 — saved
+-----------------------
+-----------------------
+Epoch:  2
+Loss: 4.1074
+Epoch training time: 128.40
+Learning Rate: 4.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un peu de mon père ne le plus de mon père n'est pas
+Test Loss: 3.5186
+Epoch loss: 4.1074
+BLEU: 0.0647
+New best BLEU: 0.0647 — saved
+-----------------------
+-----------------------
+Epoch:  3
+Loss: 3.2046
+Epoch training time: 127.96
+Learning Rate: 6.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom n'est pas un jour de la journée
+Test Loss: 2.7846
+Epoch loss: 3.2046
+BLEU: 0.1331
+New best BLEU: 0.1331 — saved
+-----------------------
+-----------------------
+Epoch:  4
+Loss: 2.5742
+Epoch training time: 128.46
+Learning Rate: 8.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom n'est pas un nom de le nom de la journée n'estce pas
+Test Loss: 2.2450
+Epoch loss: 2.5742
+BLEU: 0.1832
+New best BLEU: 0.1832 — saved
+-----------------------
+-----------------------
+Epoch:  5
+Loss: 2.1178
+Epoch training time: 128.21
+Learning Rate: 1.00e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est aussi beau jour que mon nom n'estce pas
+Test Loss: 1.9058
+Epoch loss: 2.1178
+BLEU: 0.2448
+New best BLEU: 0.2448 — saved
+-----------------------
+-----------------------
+Epoch:  6
+Loss: 1.7742
+Epoch training time: 128.06
+Learning Rate: 1.20e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un si beau jour de le convaincre
+Test Loss: 1.6633
+Epoch loss: 1.7742
+BLEU: 0.2801
+New best BLEU: 0.2801 — saved
+-----------------------
+-----------------------
+Epoch:  7
+Loss: 1.5088
+Epoch training time: 128.52
+Learning Rate: 1.40e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est si beau que ce n'est pas un tel jour
+Test Loss: 1.4805
+Epoch loss: 1.5088
+BLEU: 0.3126
+New best BLEU: 0.3126 — saved
+-----------------------
+-----------------------
+Epoch:  8
+Loss: 1.2991
+Epoch training time: 128.55
+Learning Rate: 1.60e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est le prince de ce n'est pas si adorable jour
+Test Loss: 1.3350
+Epoch loss: 1.2991
+BLEU: 0.3536
+New best BLEU: 0.3536 — saved
+-----------------------
+-----------------------
+Epoch:  9
+Loss: 1.1300
+Epoch training time: 128.08
+Learning Rate: 1.80e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un nom de mon nom si adorable n'estce pas
+Test Loss: 1.2555
+Epoch loss: 1.1300
+BLEU: 0.3585
+New best BLEU: 0.3585 — saved
+-----------------------
+-----------------------
+Epoch:  10
+Loss: 0.9964
+Epoch training time: 128.04
+Learning Rate: 2.00e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel nom de ce n'est pas le voir
+Test Loss: 1.1981
+Epoch loss: 0.9964
+BLEU: 0.3802
+New best BLEU: 0.3802 — saved
+-----------------------
+-----------------------
+Epoch:  11
+Loss: 0.8791
+Epoch training time: 128.34
+Learning Rate: 1.98e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel prince aussi adorable jour n'estce pas
+Test Loss: 1.1595
+Epoch loss: 0.8791
+BLEU: 0.3876
+New best BLEU: 0.3876 — saved
+-----------------------
+-----------------------
+Epoch:  12
+Loss: 0.7727
+Epoch training time: 128.08
+Learning Rate: 1.96e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel nom de ce n'est pas un tel jour
+Test Loss: 1.1102
+Epoch loss: 0.7727
+BLEU: 0.3967
+New best BLEU: 0.3967 — saved
+-----------------------
+-----------------------
+Epoch:  13
+Loss: 0.6857
+Epoch training time: 128.42
+Learning Rate: 1.93e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un tel jour tellement adorable que ça ne le fasse
+Test Loss: 1.0969
+Epoch loss: 0.6857
+BLEU: 0.4032
+New best BLEU: 0.4032 — saved
+-----------------------
+-----------------------
+Epoch:  14
+Loss: 0.6133
+Epoch training time: 127.99
+Learning Rate: 1.91e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un jour tellement adorable que ce n'est pas le nom
+Test Loss: 1.0820
+Epoch loss: 0.6133
+BLEU: 0.4167
+New best BLEU: 0.4167 — saved
+-----------------------
+-----------------------
+Epoch:  15
+Loss: 0.5565
+Epoch training time: 128.42
+Learning Rate: 1.89e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel garçon n'estce pas
+Test Loss: 1.0787
+Epoch loss: 0.5565
+BLEU: 0.4230
+New best BLEU: 0.4230 — saved
+-----------------------
+-----------------------
+Epoch:  16
+Loss: 0.5053
+Epoch training time: 127.95
+Learning Rate: 1.87e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est si adorable journée n'estce pas
+Test Loss: 1.0738
+Epoch loss: 0.5053
+BLEU: 0.4264
+New best BLEU: 0.4264 — saved
+-----------------------
+-----------------------
+Epoch:  17
+Loss: 0.4693
+Epoch training time: 128.02
+Learning Rate: 1.84e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement adorable que ce n'est pas un jour si adorable
+Test Loss: 1.0763
+Epoch loss: 0.4693
+BLEU: 0.4272
+New best BLEU: 0.4272 — saved
+-----------------------
+-----------------------
+Epoch:  18
+Loss: 0.4372
+Epoch training time: 128.28
+Learning Rate: 1.82e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est si adorable qu'il ne s'agit pas d'un jour si adorable
+Test Loss: 1.0760
+Epoch loss: 0.4372
+BLEU: 0.4170
+-----------------------
+-----------------------
+Epoch:  19
+Loss: 0.4116
+Epoch training time: 128.06
+Learning Rate: 1.80e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est si adorable qu'il ne s'agit pas d'un tel jour n'estce pas
+Test Loss: 1.0703
+Epoch loss: 0.4116
+BLEU: 0.4193
+-----------------------
+-----------------------
+Epoch:  20
+Loss: 0.3884
+Epoch training time: 128.25
+Learning Rate: 1.78e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel nom n'estce pas
+Test Loss: 1.0791
+Epoch loss: 0.3884
+BLEU: 0.4237
+-----------------------
+-----------------------
+Epoch:  21
+Loss: 0.3692
+Epoch training time: 127.88
+Learning Rate: 1.76e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement adorable qu'il ne l'apprécie pas
+Test Loss: 1.0736
+Epoch loss: 0.3692
+BLEU: 0.4281
+New best BLEU: 0.4281 — saved
+-----------------------
+-----------------------
+Epoch:  22
+Loss: 0.3528
+Epoch training time: 128.41
+Learning Rate: 1.73e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement adorable n'estce pas
+Test Loss: 1.0861
+Epoch loss: 0.3528
+BLEU: 0.4247
+-----------------------
+-----------------------
+Epoch:  23
+Loss: 0.3380
+Epoch training time: 128.06
+Learning Rate: 1.71e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un tel jour de telle jour le nom n'estce pas
+Test Loss: 1.0889
+Epoch loss: 0.3380
+BLEU: 0.4307
+New best BLEU: 0.4307 — saved
+-----------------------
+-----------------------
+Epoch:  24
+Loss: 0.3261
+Epoch training time: 128.74
+Learning Rate: 1.69e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un vrai nom n'est pas mon nom
+Test Loss: 1.0886
+Epoch loss: 0.3261
+BLEU: 0.4415
+New best BLEU: 0.4415 — saved
+-----------------------
+-----------------------
+Epoch:  25
+Loss: 0.3133
+Epoch training time: 128.20
+Learning Rate: 1.67e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un jour tellement adorable que mon nom n'est pas un jour de ce que je suis un jour adorable
+Test Loss: 1.0907
+Epoch loss: 0.3133
+BLEU: 0.4205
+-----------------------
+-----------------------
+Epoch:  26
+Loss: 0.3021
+Epoch training time: 128.62
+Learning Rate: 1.64e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un jour tellement adorable n'estce pas
+Test Loss: 1.0850
+Epoch loss: 0.3021
+BLEU: 0.4284
+-----------------------
+-----------------------
+Epoch:  27
+Loss: 0.2922
+Epoch training time: 128.11
+Learning Rate: 1.62e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel nom n'estce pas
+Test Loss: 1.0862
+Epoch loss: 0.2922
+BLEU: 0.4370
+-----------------------
+-----------------------
+Epoch:  28
+Loss: 0.2837
+Epoch training time: 128.50
+Learning Rate: 1.60e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un tel jour tellement adorable qu'il n'est pas un tel jour
+Test Loss: 1.0932
+Epoch loss: 0.2837
+BLEU: 0.4356
+-----------------------
+-----------------------
+Epoch:  29
+Loss: 0.2753
+Epoch training time: 128.20
+Learning Rate: 1.58e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un vrai nom ne l'apprécie pas
+Test Loss: 1.0803
+Epoch loss: 0.2753
+BLEU: 0.4387
+-----------------------
+-----------------------
+Epoch:  30
+Loss: 0.2678
+Epoch training time: 128.33
+Learning Rate: 1.56e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel nom n'estce pas
+Test Loss: 1.0886
+Epoch loss: 0.2678
+BLEU: 0.4340
+-----------------------
+-----------------------
+Epoch:  31
+Loss: 0.2603
+Epoch training time: 128.04
+Learning Rate: 1.53e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un tel nom n'estce pas
+Test Loss: 1.0921
+Epoch loss: 0.2603
+BLEU: 0.4321
+-----------------------
+-----------------------
+Epoch:  32
+Loss: 0.2547
+Epoch training time: 128.50
+Learning Rate: 1.51e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un tel nom ne se présente pas
+Test Loss: 1.0915
+Epoch loss: 0.2547
+BLEU: 0.4401
+-----------------------
+-----------------------
+Epoch:  33
+Loss: 0.2487
+Epoch training time: 128.25
+Learning Rate: 1.49e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un tel jour tellement délicieux que ce n'est pas lui
+Test Loss: 1.1012
+Epoch loss: 0.2487
+BLEU: 0.4255
+-----------------------
+-----------------------
+Epoch:  34
+Loss: 0.2427
+Epoch training time: 128.43
+Learning Rate: 1.47e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom n'est pas un tel jour d'école pour lui
+Test Loss: 1.1069
+Epoch loss: 0.2427
+BLEU: 0.4302
+-----------------------
+-----------------------
+Epoch:  35
+Loss: 0.2371
+Epoch training time: 127.94
+Learning Rate: 1.44e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un tel jour de ce n'est pas mon nom
+Test Loss: 1.0907
+Epoch loss: 0.2371
+BLEU: 0.4325
+-----------------------
+-----------------------
+Epoch:  36
+Loss: 0.2323
+Epoch training time: 128.45
+Learning Rate: 1.42e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un tel jour tellement délicieux qu'il ne l'apprécie pas
+Test Loss: 1.1091
+Epoch loss: 0.2323
+BLEU: 0.4325
+-----------------------
+-----------------------
+Epoch:  37
+Loss: 0.2280
+Epoch training time: 127.89
+Learning Rate: 1.40e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un tel nom n'estce pas
+Test Loss: 1.0975
+Epoch loss: 0.2280
+BLEU: 0.4309
+-----------------------
+-----------------------
+Epoch:  38
+Loss: 0.2234
+Epoch training time: 128.21
+Learning Rate: 1.38e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un si charmant qu'il ne s'agit pas de mon nom
+Test Loss: 1.1100
+Epoch loss: 0.2234
+BLEU: 0.4292
+-----------------------
+-----------------------
+Epoch:  39
+Loss: 0.2190
+Epoch training time: 127.93
+Learning Rate: 1.36e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un tel petit garçon n'estce pas
+Test Loss: 1.1169
+Epoch loss: 0.2190
+BLEU: 0.4325
+-----------------------
+-----------------------
+Epoch:  40
+Loss: 0.2149
+Epoch training time: 128.14
+Learning Rate: 1.33e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement adorable qu'il ne l'apprécie pas
+Test Loss: 1.1027
+Epoch loss: 0.2149
+BLEU: 0.4328
+-----------------------
+-----------------------
+Epoch:  41
+Loss: 0.2107
+Epoch training time: 128.27
+Learning Rate: 1.31e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est si adorable qu'il n'est pas un jour tellement adorable
+Test Loss: 1.1175
+Epoch loss: 0.2107
+BLEU: 0.4362
+-----------------------
+-----------------------
+Epoch:  42
+Loss: 0.2078
+Epoch training time: 127.89
+Learning Rate: 1.29e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un tel acte un tel nom ne l'ai pas connu
+Test Loss: 1.1178
+Epoch loss: 0.2078
+BLEU: 0.4297
+-----------------------
+-----------------------
+Epoch:  43
+Loss: 0.2043
+Epoch training time: 128.27
+Learning Rate: 1.27e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un si adorable n'estce pas
+Test Loss: 1.1157
+Epoch loss: 0.2043
+BLEU: 0.4377
+-----------------------
+-----------------------
+Epoch:  44
+Loss: 0.2008
+Epoch training time: 128.43
+Learning Rate: 1.24e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un vrai prince le garçon qui le parle n'estce pas
+Test Loss: 1.1121
+Epoch loss: 0.2008
+BLEU: 0.4267
+-----------------------
+-----------------------
+Epoch:  45
+Loss: 0.1975
+Epoch training time: 127.29
+Learning Rate: 1.22e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel acte n'estce pas un tel nom
+Test Loss: 1.1160
+Epoch loss: 0.1975
+BLEU: 0.4311
+-----------------------
+-----------------------
+Epoch:  46
+Loss: 0.1945
+Epoch training time: 126.26
+Learning Rate: 1.20e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un vrai nom n'estce pas
+Test Loss: 1.1193
+Epoch loss: 0.1945
+BLEU: 0.4240
+-----------------------
+-----------------------
+Epoch:  47
+Loss: 0.1914
+Epoch training time: 126.65
+Learning Rate: 1.18e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un prince tellement adorable qu'il ne s'appelle pas mon nom
+Test Loss: 1.1360
+Epoch loss: 0.1914
+BLEU: 0.4266
+-----------------------
+-----------------------
+Epoch:  48
+Loss: 0.1884
+Epoch training time: 126.27
+Learning Rate: 1.16e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est si adorable qu'il ne l'est pas un jour
+Test Loss: 1.1255
+Epoch loss: 0.1884
+BLEU: 0.4341
+-----------------------
+-----------------------
+Epoch:  49
+Loss: 0.1855
+Epoch training time: 126.67
+Learning Rate: 1.13e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un prince tellement charmant qu'il ne s'échappe pas
+Test Loss: 1.1261
+Epoch loss: 0.1855
+BLEU: 0.4300
+-----------------------
+-----------------------
+Epoch:  50
+Loss: 0.1828
+Epoch training time: 126.29
+Learning Rate: 1.11e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un prince tellement adorable n'estce pas
+Test Loss: 1.1291
+Epoch loss: 0.1828
+BLEU: 0.4323
+-----------------------
+-----------------------
+Epoch:  51
+Loss: 0.1802
+Epoch training time: 126.69
+Learning Rate: 1.09e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: c'est un prince tellement adorable qu'il ne s'appelle pas mon nom
+Test Loss: 1.1214
+Epoch loss: 0.1802
+BLEU: 0.4261
+-----------------------
+-----------------------
+Epoch:  52
+Loss: 0.1778
+Epoch training time: 126.32
+Learning Rate: 1.07e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un vrai prénom n'estce pas
+Test Loss: 1.1221
+Epoch loss: 0.1778
+BLEU: 0.4254
+-----------------------
+-----------------------
+Epoch:  53
+Loss: 0.1756
+Epoch training time: 126.69
+Learning Rate: 1.04e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si adorable n'estce pas
+Test Loss: 1.1191
+Epoch loss: 0.1756
+BLEU: 0.4371
+-----------------------
+-----------------------
+Epoch:  54
+Loss: 0.1732
+Epoch training time: 126.30
+Learning Rate: 1.02e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel petit nom n'estce pas
+Test Loss: 1.1367
+Epoch loss: 0.1732
+BLEU: 0.4289
+-----------------------
+-----------------------
+Epoch:  55
+Loss: 0.1706
+Epoch training time: 126.67
+Learning Rate: 1.00e-04
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est si adorable qu'il ne s'agit pas d'un jour d'école
+Test Loss: 1.1353
+Epoch loss: 0.1706
+BLEU: 0.4258
+-----------------------
+-----------------------
+Epoch:  56
+Loss: 0.1683
+Epoch training time: 126.66
+Learning Rate: 9.78e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est un tel jour mon nom n'estce pas
+Test Loss: 1.1267
+Epoch loss: 0.1683
+BLEU: 0.4315
+-----------------------
+-----------------------
+Epoch:  57
+Loss: 0.1660
+Epoch training time: 126.27
+Learning Rate: 9.56e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est si adorable qu'il ne s'agit pas d'un jour de musique
+Test Loss: 1.1233
+Epoch loss: 0.1660
+BLEU: 0.4280
+-----------------------
+-----------------------
+Epoch:  58
+Loss: 0.1639
+Epoch training time: 126.67
+Learning Rate: 9.33e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel petit nom n'estce pas
+Test Loss: 1.1335
+Epoch loss: 0.1639
+BLEU: 0.4241
+-----------------------
+-----------------------
+Epoch:  59
+Loss: 0.1619
+Epoch training time: 126.27
+Learning Rate: 9.11e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un si adorable journée n'estce pas
+Test Loss: 1.1366
+Epoch loss: 0.1619
+BLEU: 0.4283
+-----------------------
+-----------------------
+Epoch:  60
+Loss: 0.1597
+Epoch training time: 126.65
+Learning Rate: 8.89e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: le prince est mon nom n'estce pas un jour tellement délicieux
+Test Loss: 1.1399
+Epoch loss: 0.1597
+BLEU: 0.4299
+-----------------------
+-----------------------
+Epoch:  61
+Loss: 0.1579
+Epoch training time: 126.30
+Learning Rate: 8.67e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour n'estce pas
+Test Loss: 1.1330
+Epoch loss: 0.1579
+BLEU: 0.4288
+-----------------------
+-----------------------
+Epoch:  62
+Loss: 0.1556
+Epoch training time: 126.69
+Learning Rate: 8.44e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour alors c'est un tel acte charmant
+Test Loss: 1.1442
+Epoch loss: 0.1556
+BLEU: 0.4276
+-----------------------
+-----------------------
+Epoch:  63
+Loss: 0.1542
+Epoch training time: 126.29
+Learning Rate: 8.22e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est si adorable n'estce pas
+Test Loss: 1.1425
+Epoch loss: 0.1542
+BLEU: 0.4301
+-----------------------
+-----------------------
+Epoch:  64
+Loss: 0.1521
+Epoch training time: 126.65
+Learning Rate: 8.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour où il ne s'agit pas d'un tel nom
+Test Loss: 1.1495
+Epoch loss: 0.1521
+BLEU: 0.4269
+-----------------------
+-----------------------
+Epoch:  65
+Loss: 0.1505
+Epoch training time: 126.24
+Learning Rate: 7.78e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour où il ne s'agit pas d'un tel jour
+Test Loss: 1.1450
+Epoch loss: 0.1505
+BLEU: 0.4233
+-----------------------
+-----------------------
+Epoch:  66
+Loss: 0.1485
+Epoch training time: 126.70
+Learning Rate: 7.56e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un si charmant jour ne le lui dérange pas
+Test Loss: 1.1416
+Epoch loss: 0.1485
+BLEU: 0.4305
+-----------------------
+-----------------------
+Epoch:  67
+Loss: 0.1468
+Epoch training time: 127.28
+Learning Rate: 7.33e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel petit nom n'estce pas
+Test Loss: 1.1453
+Epoch loss: 0.1468
+BLEU: 0.4330
+-----------------------
+-----------------------
+Epoch:  68
+Loss: 0.1449
+Epoch training time: 127.79
+Learning Rate: 7.11e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un tel jour où il ne s'agit pas vrai
+Test Loss: 1.1481
+Epoch loss: 0.1449
+BLEU: 0.4243
+-----------------------
+-----------------------
+Epoch:  69
+Loss: 0.1434
+Epoch training time: 127.39
+Learning Rate: 6.89e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si adorable jour où il ne s'agit pas d'un tel nom
+Test Loss: 1.1453
+Epoch loss: 0.1434
+BLEU: 0.4307
+-----------------------
+-----------------------
+Epoch:  70
+Loss: 0.1416
+Epoch training time: 127.08
+Learning Rate: 6.67e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel nom n'estce pas
+Test Loss: 1.1525
+Epoch loss: 0.1416
+BLEU: 0.4298
+-----------------------
+-----------------------
+Epoch:  71
+Loss: 0.1400
+Epoch training time: 126.31
+Learning Rate: 6.44e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1523
+Epoch loss: 0.1400
+BLEU: 0.4326
+-----------------------
+-----------------------
+Epoch:  72
+Loss: 0.1388
+Epoch training time: 126.70
+Learning Rate: 6.22e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1565
+Epoch loss: 0.1388
+BLEU: 0.4272
+-----------------------
+-----------------------
+Epoch:  73
+Loss: 0.1369
+Epoch training time: 126.27
+Learning Rate: 6.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1579
+Epoch loss: 0.1369
+BLEU: 0.4284
+-----------------------
+-----------------------
+Epoch:  74
+Loss: 0.1357
+Epoch training time: 126.68
+Learning Rate: 5.78e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour pour lui n'estce pas
+Test Loss: 1.1548
+Epoch loss: 0.1357
+BLEU: 0.4323
+-----------------------
+-----------------------
+Epoch:  75
+Loss: 0.1341
+Epoch training time: 126.92
+Learning Rate: 5.56e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si délicieux n'estce pas
+Test Loss: 1.1530
+Epoch loss: 0.1341
+BLEU: 0.4296
+-----------------------
+-----------------------
+Epoch:  76
+Loss: 0.1326
+Epoch training time: 126.67
+Learning Rate: 5.33e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour où il ne s'agit pas d'un tel
+Test Loss: 1.1582
+Epoch loss: 0.1326
+BLEU: 0.4295
+-----------------------
+-----------------------
+Epoch:  77
+Loss: 0.1308
+Epoch training time: 126.27
+Learning Rate: 5.11e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1601
+Epoch loss: 0.1308
+BLEU: 0.4294
+-----------------------
+-----------------------
+Epoch:  78
+Loss: 0.1298
+Epoch training time: 126.63
+Learning Rate: 4.89e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour férié il ne s'agit pas de lui
+Test Loss: 1.1652
+Epoch loss: 0.1298
+BLEU: 0.4290
+-----------------------
+-----------------------
+Epoch:  79
+Loss: 0.1280
+Epoch training time: 128.90
+Learning Rate: 4.67e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1634
+Epoch loss: 0.1280
+BLEU: 0.4252
+-----------------------
+-----------------------
+Epoch:  80
+Loss: 0.1271
+Epoch training time: 127.69
+Learning Rate: 4.44e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon nom est un tel jour suivant il ne s'agit pas de lui
+Test Loss: 1.1617
+Epoch loss: 0.1271
+BLEU: 0.4281
+-----------------------
+-----------------------
+Epoch:  81
+Loss: 0.1251
+Epoch training time: 127.35
+Learning Rate: 4.22e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour férié n'estce pas
+Test Loss: 1.1728
+Epoch loss: 0.1251
+BLEU: 0.4295
+-----------------------
+-----------------------
+Epoch:  82
+Loss: 0.1241
+Epoch training time: 127.72
+Learning Rate: 4.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour férié il ne s'agit pas de lui
+Test Loss: 1.1730
+Epoch loss: 0.1241
+BLEU: 0.4295
+-----------------------
+-----------------------
+Epoch:  83
+Loss: 0.1231
+Epoch training time: 127.32
+Learning Rate: 3.78e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1757
+Epoch loss: 0.1231
+BLEU: 0.4245
+-----------------------
+-----------------------
+Epoch:  84
+Loss: 0.1218
+Epoch training time: 127.93
+Learning Rate: 3.56e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1796
+Epoch loss: 0.1218
+BLEU: 0.4282
+-----------------------
+-----------------------
+Epoch:  85
+Loss: 0.1204
+Epoch training time: 127.38
+Learning Rate: 3.33e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour férié il ne s'agit pas de lui
+Test Loss: 1.1852
+Epoch loss: 0.1204
+BLEU: 0.4274
+-----------------------
+-----------------------
+Epoch:  86
+Loss: 0.1191
+Epoch training time: 127.70
+Learning Rate: 3.11e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour férié il ne s'agit pas de lui
+Test Loss: 1.1794
+Epoch loss: 0.1191
+BLEU: 0.4250
+-----------------------
+-----------------------
+Epoch:  87
+Loss: 0.1179
+Epoch training time: 127.36
+Learning Rate: 2.89e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel petit nom n'estce pas
+Test Loss: 1.1879
+Epoch loss: 0.1179
+BLEU: 0.4301
+-----------------------
+-----------------------
+Epoch:  88
+Loss: 0.1169
+Epoch training time: 127.73
+Learning Rate: 2.67e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour de sa part n'estce pas
+Test Loss: 1.1870
+Epoch loss: 0.1169
+BLEU: 0.4307
+-----------------------
+-----------------------
+Epoch:  89
+Loss: 0.1157
+Epoch training time: 127.25
+Learning Rate: 2.44e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour où il ne le nom pas
+Test Loss: 1.1917
+Epoch loss: 0.1157
+BLEU: 0.4327
+-----------------------
+-----------------------
+Epoch:  90
+Loss: 0.1145
+Epoch training time: 127.63
+Learning Rate: 2.22e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour où il ne le s'appelle pas
+Test Loss: 1.1930
+Epoch loss: 0.1145
+BLEU: 0.4331
+-----------------------
+-----------------------
+Epoch:  91
+Loss: 0.1134
+Epoch training time: 127.26
+Learning Rate: 2.00e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux n'estce pas
+Test Loss: 1.1909
+Epoch loss: 0.1134
+BLEU: 0.4260
+-----------------------
+-----------------------
+Epoch:  92
+Loss: 0.1121
+Epoch training time: 127.69
+Learning Rate: 1.78e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux que ce n'est pas un tel nom
+Test Loss: 1.1973
+Epoch loss: 0.1121
+BLEU: 0.4314
+-----------------------
+-----------------------
+Epoch:  93
+Loss: 0.1114
+Epoch training time: 127.30
+Learning Rate: 1.56e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux que ce n'est pas un tel nom
+Test Loss: 1.1961
+Epoch loss: 0.1114
+BLEU: 0.4289
+-----------------------
+-----------------------
+Epoch:  94
+Loss: 0.1103
+Epoch training time: 127.71
+Learning Rate: 1.33e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux que ce n'est pas un tel nom
+Test Loss: 1.1984
+Epoch loss: 0.1103
+BLEU: 0.4248
+-----------------------
+-----------------------
+Epoch:  95
+Loss: 0.1093
+Epoch training time: 127.37
+Learning Rate: 1.11e-05
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si délicieux n'estce pas
+Test Loss: 1.2017
+Epoch loss: 0.1093
+BLEU: 0.4265
+-----------------------
+-----------------------
+Epoch:  96
+Loss: 0.1082
+Epoch training time: 128.23
+Learning Rate: 8.89e-06
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux que ce n'est pas lui
+Test Loss: 1.2035
+Epoch loss: 0.1082
+BLEU: 0.4272
+-----------------------
+-----------------------
+Epoch:  97
+Loss: 0.1074
+Epoch training time: 127.28
+Learning Rate: 6.67e-06
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un si charmant jour où il ne s'agit pas d'un tel nom
+Test Loss: 1.2041
+Epoch loss: 0.1074
+BLEU: 0.4263
+-----------------------
+-----------------------
+Epoch:  98
+Loss: 0.1064
+Epoch training time: 127.73
+Learning Rate: 4.44e-06
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux que ce n'est pas lui
+Test Loss: 1.2054
+Epoch loss: 0.1064
+BLEU: 0.4268
+-----------------------
+-----------------------
+Epoch:  99
+Loss: 0.1057
+Epoch training time: 127.39
+Learning Rate: 2.22e-06
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux que ce n'est pas lui
+Test Loss: 1.2061
+Epoch loss: 0.1057
+BLEU: 0.4258
+-----------------------
+-----------------------
+Epoch:  100
+Loss: 0.1049
+Epoch training time: 127.73
+Learning Rate: 0.00e+00
+Test: Hi, my name is prince. Such a lovely day, isn't it?
+Translation: mon prince est un tel jour tellement délicieux que ce n'est pas lui
+Test Loss: 1.2075
+Epoch loss: 0.1049
+BLEU: 0.4252
+-----------------------
