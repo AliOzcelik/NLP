@@ -62,6 +62,9 @@ Open `transformer.ipynb` and run all cells in order:
 
 Best model weights are saved to `weights/model_best.pt` based on BLEU score.
 
+<img width="1800" height="600" alt="image" src="https://github.com/user-attachments/assets/80a28f39-3005-494e-abb3-e5900bdda48a" />
+
+
 ## Reference
 
 > Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). *Attention Is All You Need*. NeurIPS 2017. [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
