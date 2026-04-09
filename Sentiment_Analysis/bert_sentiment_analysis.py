@@ -4,23 +4,16 @@ import transformers as T
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import torchtext
 from torch.utils.data import DataLoader
-from torchtext.data.utils import get_tokenizer
-from torchtext.vocab import build_vocab_from_iterator
-from torchtext.datasets import AG_NEWS
-from torch.utils.data.dataset import random_split
-from torchtext.data.functional import to_map_style_dataset
+from sklearn.metrics import accuracy_score, classification_report
 import time
 import re
-#from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, classification_report
 
 
 
-training = open("/Users/desidero/Desktop/NLP/Emotions/train.txt","r",encoding="utf8", errors="ignore").read().split("\n")
-val_text = open("/Users/desidero/Desktop/NLP/Emotions/val.txt","r",encoding="utf8", errors="ignore").read().split("\n")
-test_text = open("/Users/desidero/Desktop/NLP/Emotions/test.txt","r",encoding="utf8", errors="ignore").read().split("\n")
+training = open("train.txt","r",encoding="utf8", errors="ignore").read().split("\n")
+val_text = open("val.txt","r",encoding="utf8", errors="ignore").read().split("\n")
+test_text = open("test.txt","r",encoding="utf8", errors="ignore").read().split("\n")
 
 train_text = training + val_text
 
