@@ -8,9 +8,9 @@ from sklearn.metrics import accuracy_score, classification_report
 
 
 
-training = open("/Users/desidero/Desktop/Kodlar/NLP/Emotions/train.txt","r",encoding="utf8", errors="ignore").read().split("\n")
-val_text = open("/Users/desidero/Desktop/Kodlar/NLP/Emotions/val.txt","r",encoding="utf8", errors="ignore").read().split("\n")
-test_text = open("/Users/desidero/Desktop/Kodlar/NLP/Emotions/test.txt","r",encoding="utf8", errors="ignore").read().split("\n")
+training = open("train.txt","r",encoding="utf8", errors="ignore").read().split("\n")
+val_text = open("val.txt","r",encoding="utf8", errors="ignore").read().split("\n")
+test_text = open("test.txt","r",encoding="utf8", errors="ignore").read().split("\n")
 
 train_text = training + val_text
 
